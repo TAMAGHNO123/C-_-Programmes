@@ -1,0 +1,1 @@
+cout << "Enter what you want to print without using getline : ";
