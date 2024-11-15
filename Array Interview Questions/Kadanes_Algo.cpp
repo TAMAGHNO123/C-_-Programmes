@@ -1,4 +1,4 @@
-//longest subarray with maximun sum
+//LONGEST SUBARRAY SUM
 #include<bits/stdc++.h>
 using namespace std;
 int kadane(vector<int>& arr){
